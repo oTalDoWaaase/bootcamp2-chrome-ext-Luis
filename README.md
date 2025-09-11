@@ -13,7 +13,7 @@ Adiciona efeitos visuais em links e botões quando o usuário navega no site [Ch
    git clone https://github.com/oTalDoWaaase/bootcamp2-chrome-ext-Luis.git
 2. Abra o Google Chrome e acesse:
 
-   `chrome://extensions/`
+   [Chrome Extensions](`chrome://extensions/`).
 3. Ative Modo do desenvolvedor (canto direito superior).
 4. Clique em Carregar sem compactação e selecione a pasta do projeto.
 Pronto! A extensão será carregada e aplicada ao site do Chrome Developers.
