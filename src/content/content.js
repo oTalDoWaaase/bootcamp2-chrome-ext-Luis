@@ -52,7 +52,7 @@ function decorate(root=document){
     }
     a.classList.add('bh-portal');
   }
-}
+}''
 decorate();
 new MutationObserver(m=>m.forEach(x=>x.addedNodes.forEach(n=>{
   if(n.nodeType===1) decorate(n);
