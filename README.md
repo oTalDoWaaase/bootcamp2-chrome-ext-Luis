@@ -18,4 +18,3 @@ Adiciona efeitos visuais em links e botões quando o usuário navega no site [Ch
 4. Clique em Carregar sem compactação e selecione a pasta do projeto.
 Pronto! A extensão será carregada e aplicada ao site do Chrome Developers.
 
-![Demonstração da landing no GitHub Pages](GITHUB.png)
